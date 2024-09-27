@@ -1,0 +1,35 @@
+h1 { text-align: center; 
+     color: white;
+     background-color: rgb(1, 102, 93);
+   }
+
+body { background-image: url("Form.png");
+       background-repeat: no-repeat;
+       background-position:  right;
+       background-attachment: fixed;
+       background-size: 77%;
+       background-color: rgb(15, 140, 130);
+      }
+
+form  { margin-left: 2%; 
+       font-size: large;
+      }
+
+input { background-color: white; }
+
+strong { color: black; }
+
+textarea { border: 2px solid ;
+           background-color:  white; 
+         }
+
+select { border: 2px solid; 
+         background-color:  white;  
+       }    
+    
+#banoqabil { margin-left: 2%;
+            background-color: rgb(1, 102, 93);
+            color: white;
+           }
+
+#suraish { padding-left: 80%;}
