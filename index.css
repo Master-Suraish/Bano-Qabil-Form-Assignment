@@ -3,7 +3,7 @@ h1 { text-align: center;
      background-color: rgb(1, 102, 93);
    }
 
-body { background-image: url("Form.png");
+body { background-image: url("index.css");
        background-repeat: no-repeat;
        background-position:  right;
        background-attachment: fixed;
