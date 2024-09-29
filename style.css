@@ -7,11 +7,11 @@ body { background-image: url("image.png");
        background-repeat: no-repeat;
        background-position:  right;
        background-attachment: fixed;
-       background-size: 77%;
+       background-size: 80%;
        background-color: rgb(15, 140, 130);
       }
 
-form  { margin-left: 2%; 
+form  { margin-left: 1%; 
        font-size: large;
       }
 
